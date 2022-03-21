@@ -1,1 +1,1 @@
-# I'm Bohdan Yunakov, js developer based in Ukraine 👋
+# I'm Bohdan, js developer based in Ukraine 👋
