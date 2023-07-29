@@ -27,6 +27,6 @@ I am an enthusiastic advocate for open-source development and actively contribut
 
 You can connect with me via:
 - Email: b.yunakov1654@gmail.com
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/bohdan-yunakov-1949851a2/))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bohdan-yunakov-1949851a2/)
 
 Let's build something incredible together! 🚀
