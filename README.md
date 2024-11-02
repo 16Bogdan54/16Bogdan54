@@ -1,5 +1,7 @@
 # Bohdan Yunakov - MERN Stack Developer from Ukraine, Kharkiv
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=16Bogdan54&theme=prussian)](https://git.io/streak-stats)
+
 ## Introduction
 
 Hello, fellow developers! 👋 I'm Bohdan Yunakov, a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer based in the vibrant city of Kharkiv, Ukraine. I have a strong fascination for crafting elegant and efficient web applications that deliver seamless user experiences.
